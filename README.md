@@ -16,10 +16,10 @@ It provides a clean, modern, and responsive foundation to create a CRM-like cust
 ## 📂 File Structure
 
 #/360_salesforce_portal
-#│── index.html # Main webpage, entry point
-#│── styles.css # Cascading Style Sheets for UI styling
-#│── script.js # JavaScript for base interactivity
-#│── README.md # Project documentation (this file)
+│── index.html # Main webpage, entry point
+│── styles.css # Cascading Style Sheets for UI styling
+│── script.js # JavaScript for base interactivity
+│── README.md # Project documentation (this file)
 
 
 ## 🛠️ How to Use
